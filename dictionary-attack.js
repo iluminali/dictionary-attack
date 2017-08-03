@@ -15,7 +15,7 @@ window.onload = init;
 /* ADD YOUR CODE BELOW */
 
 function checkPassword() {
-  if dict in wordList:
+  if dict in wordsList:
     while match = False:
       if dict = True;
         match = true;
