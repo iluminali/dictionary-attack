@@ -15,6 +15,13 @@ window.onload = init;
 /* ADD YOUR CODE BELOW */
 
 function checkPassword() {
+  if dict in wordlist:
+    while match = False:
+      if dict = True;
+        match = true;
+ if match = True:
+  print("Sorry to tell you this but your password is week :(.")
+ if match = False:
+  print("Not bad!")
   
-
 }
